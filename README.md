@@ -16,4 +16,4 @@ The Teachings of Bhagawan Sri Ramana Maharshi
   June 30, 1982
 
 
-[Index](whoami/docs/index.md)
+[Index](docs/index.md)
