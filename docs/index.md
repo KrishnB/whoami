@@ -1,8 +1,3 @@
----
-title: Nan Yar
-layout: page
----
-
 ## Who Am I?
 ### _Nan Yar_
 
