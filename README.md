@@ -11,4 +11,4 @@
   June 30, 1982
 
 
-[Index](docs/index.md)
+[_Nan Yar?_](docs/index.md)
