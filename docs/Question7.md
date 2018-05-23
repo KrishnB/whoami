@@ -1,4 +1,4 @@
-# When will the world which is the object seen be removed?
+#### When will the world which is the object seen be removed?
 
 _When the mind, which is the cause of all cognition and of all actions, becomes quiescent, the world will disappear._
 
