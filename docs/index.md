@@ -21,27 +21,27 @@ the enquiry in the form of "Who am I?", is the principal means._
 
   7. [When will the world which is the object seen be removed](Question7.md)
 
-  8. [Question 8]()
+  8. [What is the nature of the mind?](Question8.md)
 
-  9. [Question 9]()
+  9. [What is the path of inquiry for understanding the nature of the mind?](Question9.md)
 
-  10.[Question 10]()
+  10.[How will the mind become quiescent?](Question10.md)
 
-  11.[Question 11]()
+  11.[What is the means for constantly holding on to the thought _'Who am I?'_](Question11.md)
 
-  12.[Question 12]()
+  12.[Are there no other means for making the mind quiescent?](Question12.md)
 
-  13.[Question 13]()
+  13.[The residual impressions (thoughts) of objects appear unending like the waves of an ocean. When will all of them get destroyed?](Question13.md)
 
-  14.[Question 14]()
+  14.[Is it possible for the residual impressions of objects that come from befinningless time, as it were, to be reolved, and for one tom remain as the pure Self?](Question14.md)
 
-  15.[Question 15]()
+  15.[How long should inquiry be practised?](Question15.md)
 
-  16.[Question 16]()
+  16.[What is the nature of the Self?](Question16.md)
 
-  17.[Question 17]()
+  17.[Is not everything the work of God?](Question17.md)
 
-  18.[Question 18]()
+  18.[Of the devotees, who is the greatest?](Question18.md)
 
   19.[Question 19]()
 
