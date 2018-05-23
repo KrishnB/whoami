@@ -1,3 +1,5 @@
+[_Nan Yar?_](docs/index.md)
+
 ### Introduction
 
   _Who am I?_ is the title given to a set of questions and answers bearing on Self-enquiry. The questions were to Bhagavan Sri Ramana Maharshi by Sri M. Sivaprakasam Pillai, about the year 1902. Sri Pillai, a graduate in philosophy, was ath the time employed in the Revenue Department of the South Arcot Collectorate. During his visit to Tiruvannamalai in 1902 on official work, he went to Virupaksha Cave on Arunachala Hill and met the Maharshi there. He sought from him spiritual guidance and solicited answers to questions relating to Self-enquiry. As Bhagavan was not talking then, not because of any vow he had taken but because he did not have the inclination to talk, he answered questions put to him by writing. As recollected and recored by Sri Sivaparakasam Pillai, there were thirteen questions and answeres to them given by Bhagavan. This record was first published by Sri Pillai in 1923 (in the original Tamil), along with couple of poems composed by himself relating how Bhagavan's grace operated in his case by dispelling his doubts and by saving him from a crisis in life. _Who am I?_ has been published several times subsequently. We find thirteen questions and answers in some editions and twenty-eight in others. Threre is also another published version in which the questions are not given, and the teachings are rearranged in the form of an essay. The extant English translation is of this essay. The present rendering is of the txt in the form of twenty-eight questions and answers.
@@ -9,6 +11,3 @@
   **T.M.P Mahadevan** <br>
   _University of Madras_ <br>
   June 30, 1982
-
-
-[_Nan Yar?_](docs/index.md)
