@@ -11,7 +11,7 @@ the enquiry in the form of "Who am I?", is the principal means._
 
   2. [If I am none of there, then who am I?](Question2.mind)
 
-  3. [What is the nature of Awareness?](Question3.mind)
+  3. [What is the nature of Awareness?](Question3.md)
 
   4. [When will the realization of the Self be gained?](Question4.md)
 
