@@ -43,22 +43,23 @@ the enquiry in the form of "Who am I?", is the principal means._
 
   * [Of the devotees, who is the greatest?](Question18.md)
 
-  * [Question 19]()
+  * [What is non-attachment?](Question19.md)
 
-  * [Question 20]()
+  * [Is it not possible for God and the Guru to effect the liberation of a soul?](Question20.md)
 
-  * [Question 21]()
+  * [Is it necessary for one who longs for liberation to inquire into the nature of categories (tattvas)?](Question21.md)
 
-  * [Question 22]()
+  * [Is there no difference between waking and dream?](Question22.md)
 
-  * [Question 23]()
+  * [Is it any use reading books for those who long for liberation?](Question23.md)
 
-  * [Question 24]()
+  * [What is happiness?](Question24.md)
 
-  * [Question 25]()
+  * [What is wisdom-insight (jnana drishti)?](Question25.md)
 
-  * [Question 26]()
+  * [What is the relation between desirelessness and wisdom?](Question26.md)
 
-  * [Question 27]()
+  * [What is the difference between inquiry and meditation?](Question27.md)
 
-  * [Question 28]()
+  * [What is liberation?](Question28.md)
+
