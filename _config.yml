@@ -1,7 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: broccolini/swiss
 title: Who Am I?
 description: The Teachings of Bhagavan Ramana Maharshi
 logo: Thinking1.jpg
-links:
-  - title: About
-    url: /about
